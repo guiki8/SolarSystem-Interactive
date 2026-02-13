@@ -1,16 +1,16 @@
-# 🌍 SistemaSolar‑Interativo
+# 🌍 SolarSystem-Interactive
 
-## Sobre o repositório
-Site educativo com simulador básico do Sistema Solar.
+## About the repository
+Educational website with a basic Solar System simulator.
 
-## Funcionalidades
-- Visualização interativa dos planetas
-- Informações sobre órbitas e dados planetários
+## Features
+- Interactive visualization of the planets
+- Information about orbits and planetary data
 
-## Tecnologias
+## Technologies
 - HTML, CSS, JavaScript
 
-## Como executar
-Abra `index.html` no navegador ou rode um servidor local:
+## How to run
+Open `index.html` in your browser or run a local server:
 ```bash
 python -m http.server 8000
